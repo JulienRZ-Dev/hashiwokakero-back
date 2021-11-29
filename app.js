@@ -1,6 +1,6 @@
 const express = require("express");
 
-const HOST = "0.0.0.0";
+const HOST = "10.2.5.177";
 const PORT = 3000;
 
 // Create the express server instance
